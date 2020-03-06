@@ -157,7 +157,7 @@ class TagCloud extends React.Component<ITagCloudProps, ITagCloudState> {
               item.child,
               {
                 ...item.child.props,
-                key: item.key,
+                key: item.child.key,
                 style: newStyle,
               },
               item.child.props.children,
