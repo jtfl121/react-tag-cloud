@@ -36,8 +36,8 @@
     "@types/d3-cloud": "^1.2.2",
     "@types/react": "^16.8.8",
     "@types/react-measure": "^2.0.5",
-    "tslint": "^5.14.0",
+    "tslint": "^6.0.0",
     "tslint-react": "^3.6.0",
-    "typescript": "^3.3.3333"
+    "typescript": "^3.8.3"
   }
 }
