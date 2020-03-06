@@ -12,8 +12,7 @@
     "react-words",
     "react-tags"
   ],
-  "main": "dist/index.js",
-  "typings": "dist/index.d.ts",
+  "main": "src/index.js",
   "repository": "https://github.com/IjzerenHein/react-tag-cloud",
   "author": "IjzerenHein <hrutjes@gmail.com>",
   "license": "MIT",
