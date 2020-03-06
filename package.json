@@ -13,7 +13,7 @@
     "react-tags"
   ],
   "main": "src/index.js",
-  "repository": "https://github.com/IjzerenHein/react-tag-cloud",
+  "repository": "https://github.com/LucasCharrier/react-tag-cloud",
   "author": "IjzerenHein <hrutjes@gmail.com>",
   "license": "MIT",
   "files": [
